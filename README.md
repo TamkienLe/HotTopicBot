@@ -19,8 +19,8 @@ Website: https://www.hottopic.com/
 ## What Links Do I Use?
 Limited funko links will usually be posted in the offical HotTopic twitter/discord
 ![Capture](https://user-images.githubusercontent.com/22161308/171800525-978d5ece-4e4b-4374-b7f6-ad1423b9183d.PNG)
-![image](https://user-images.githubusercontent.com/22161308/171800959-e0bf08c1-4ca9-4557-81f3-27fd8f81adfb.png)
 
+## Demo Video
 
 
 
