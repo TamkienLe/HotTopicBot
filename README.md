@@ -19,8 +19,11 @@ Website: https://www.hottopic.com/
 ## What Links Do I Use?
 Limited funko links will usually be posted in the offical HotTopic twitter/discord
 ![Capture](https://user-images.githubusercontent.com/22161308/171800525-978d5ece-4e4b-4374-b7f6-ad1423b9183d.PNG)
-
-
+Links to Test Script:
+-https://www.hottopic.com/product/funko-stranger-things-pop-television-dustin-vinyl-figure/17414719.html
+-https://www.hottopic.com/product/funko-dc-comics-pride-2022-pop-robin-vinyl-figure/18050800.html
+-https://www.hottopic.com/product/funko-star-wars-obi-wan-kenobi-pop-darth-vader-vinyl-bobble-head/18371395.html
+-https://www.hottopic.com/product/marvel-doctor-strange-in-the-multiverse-of-madness-pop-supreme-strange-vinyl-figure/16748962.html
 
 ## Demo 
 
