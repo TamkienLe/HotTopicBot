@@ -7,7 +7,7 @@ Website: https://www.hottopic.com/
 1. Download setup.exe
 2. Launch
 3. Type in checkout info
-4. Copy and paste link
+4. Copy and paste product link
 5. Run
 
 
