@@ -10,11 +10,8 @@ Website: https://www.hottopic.com/
 4. Copy and paste product link
 5. Run
 
-
-
-
-
-
+##Example
+![Capture](https://user-images.githubusercontent.com/22161308/171799421-54a57d60-8fa7-47a0-9d82-12751be21d64.PNG)
 
 
 
