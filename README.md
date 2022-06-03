@@ -11,8 +11,6 @@ Website: https://www.hottopic.com/
 5. Run
 
 ## GUI
-![Capture](https://user-images.githubusercontent.com/22161308/171799563-1cb6c2ec-942d-42cc-a05c-174da9428f7a.PNG)
-
 ![Capture](https://user-images.githubusercontent.com/22161308/171799421-54a57d60-8fa7-47a0-9d82-12751be21d64.PNG)
 
 ## What Links Do I Use?
