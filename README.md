@@ -2,7 +2,7 @@
 
 Auto-Checkout bot made for friends to purchase limited funko pops.
 
-High demand Funkos get announced and links are later posted on socials. The bot automates the checkout process to ensure the item gets bought before sold out.
+High demand Funkos get announced and the links are later posted on socials. The bot automates the checkout process to ensure the item gets bought before sold out.
 
 Website: https://www.hottopic.com/
 
