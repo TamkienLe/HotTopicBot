@@ -20,7 +20,9 @@ Website: https://www.hottopic.com/
 Limited funko links will usually be posted in the offical HotTopic twitter/discord
 ![Capture](https://user-images.githubusercontent.com/22161308/171800525-978d5ece-4e4b-4374-b7f6-ad1423b9183d.PNG)
 
-## Demo Video
+
+
+## Demo 
 
 
 
