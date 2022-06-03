@@ -8,7 +8,8 @@ Website: https://www.hottopic.com/
 2. Launch
 3. Type in checkout info
 4. Copy and paste link
-5. Get your item
+5. Run
+
 
 
 
