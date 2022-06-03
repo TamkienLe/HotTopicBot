@@ -4,19 +4,13 @@ from selenium import webdriver
 import time
 
 
-this_email = "physicalcookie@gmail.com"
-phone_number = "6138839903"
-first_name = "Tamkien"
-last_name = "Le"
-this_address = "8 Danby ct"
-this_city = "NEPEAN"
-this_zipCode = "K2R 1C9"
 
-cardNameT = "TK"
+#Test card info
+cardNameT = "bob"
 cardNumberT = "4030000010001234"
 cardExpireT = "0424"
 cardCVNT = "123"
-link = "https://www.hottopic.com/product/marvel-doctor-strange-in-the-multiverse-of-madness-pop-rintrah-6-inch-vinyl-figure/16749141.html"
+
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 
