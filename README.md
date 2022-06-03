@@ -1,5 +1,12 @@
 ### HotTopicBot👣
-# Auto-Checkout bot for website https://www.hottopic.com/
+
+Auto-Checkout bot made for friends to purchase limited funko pops.
+Website https://www.hottopic.com/
+
+## How to Use/Download
+
+
+
 
 
 
